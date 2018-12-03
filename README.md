@@ -1,4 +1,4 @@
-# hacker_flutter
+# flutter_hacker_news
 
 A new Flutter project.
 
